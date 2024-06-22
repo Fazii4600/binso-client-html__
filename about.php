@@ -224,23 +224,11 @@
                         <div class="sec-title">
                             <span class="sub-title">About Us</span>
                             <h2>Who We Are</h2>
-                            <div class="text">Our journey began with a group of passionate developers and designers who shared a common goal of creating something special. We wanted to build a company that was different from the rest, one that focused on quality, creativity, and innovation. With over 10 years of combined experience in the tech industry, we knew that we had the skills and expertise to deliver exceptional services to our clients. <br> Our success is a result of our dedication, hard work, and commitment to excellence. We are constantly evolving and adapting to the ever-changing needs of our clients and the industry. Our team of experienced professionals works tirelessly to ensure that we stay at the forefront of technology and innovation.</div>
+                            <div class="text">Softtech is a leading IT & Software Development company providing services to clients in North America, Europe, Australia with over 250+ Active Clients and a team of 400+ people. <br><br>
+
+With a skilled team that is passionate and talented, we cultivate a winning attitude across our organization. Our supportive management allows you to excel and find your true potential to reach new heights in your career. We believe in rewarding and appreciating hard work that makes our team push their limit every single day!</div>
                         </div>
 
-                        <ul class="list-style-three">
-                            <li><i class="icon fa fa-check-circle"></i>Exceptional Services,</li>
-                            <li><i class="icon fa fa-check-circle"></i> Quality Work</li>
-                            <li><i class="icon fa fa-check-circle"></i> Customer-Centric Approach</li>
-                           
-                        </ul>
-
-                         <div class="btn-box">
-                            <a href="about.php" class="theme-btn btn-style-one"><span class="btn-title">Discover more</span></a>
-                            <div class="founder-info">
-                               
-                                
-                            </div>
-                        </div>
                     </div>
                 </div> 
 
@@ -251,12 +239,7 @@
                         </figure>
                         <figure class="image-2 overlay-anim bounce-y"><img src="images/resource/happy-customer.jpg" alt="">
                         </figure>
-                        <div class="experience bounce-x">
-                            <div class="inner">
-                                <i class="icon flaticon-reputation"></i>
-                                <div class="text"><strong>87450</strong> happy customers</div>
-                            </div>
-                        </div>
+                        
                     </div>
                 </div>
             </div>
@@ -268,187 +251,20 @@
     <div class="services-section-two pull-up">
         <div class="auto-container">
             <div class="sec-title text-center">
-                <span class="sub-title">what we’re offering</span>
-                <h2>Get the best IT technology <br/>services <span>&</span> solutions</h2>
+                
+                <h2>What We Do</h2>
             </div>
-            <div class="carousel-outer">
-                <div class="service-carousel owl-carousel owl-theme default-dots">
-                    <div class="service-block-two">
-                        <div class="inner-box">
-                            <div class="image-box">
-                                <div class="icon-box">
-                                    <i class="icon flaticon-front-end"></i>
-                                </div>
-                                <figure class="image"><a href="service-details1.php" class="lightbox-image"><img src="images/resource/service2-1.jpg" alt="Image"></a></figure>
-                            </div>
-                            <div class="content-box">
-                                <span class="sub-title">01 Service</span>
-                                <h4 class="title"><a href="service-details1.php">ERP Solutions</a></h4>
-                            </div>
-                            <div class="button-box">
-                                <a href="service-details1.php" class="read-more">Read More <i class="fa fa-angle-right"></i></a>
-                            </div>
-                        </div>
-                    </div>
+            <div class="text">Softech provides a vast range of Software Development & IT services that include various aspects of digital marketing, SaaS-based solutions and provides our clients with the latest solutions in the changing world of Marketing Automations and Artificial Intelligence.
 
-                    <div class="service-block-two">
-                        <div class="inner-box">
-                            <div class="image-box">
-                                <div class="icon-box">
-                                    <i class="icon flaticon-online-shopping"></i>
-                                </div>
-                                <figure class="image"><a href="service-details2.php" class="lightbox-image"><img src="images/resource/service2-2.jpg" alt="Image"></a></figure>
-                            </div>
-                            <div class="content-box">
-                                <span class="sub-title">02 Service</span>
-                                <h4 class="title"><a href="service-details2.php">E-Commerce Solutions</a></h4>
-                            </div>
-                            <div class="button-box">
-                                <a href="service-details2.php" class="read-more">Read More <i class="fa fa-angle-right"></i></a>
-                            </div>
-                        </div>
-                    </div>
+Our vision is to become a 1,000 people company that consists of the Top 1% workforce of Pakistan to provide services across the globe and lead Pakistan as a Software Development & IT service provider in international markets.<br><br>
 
-                    <div class="service-block-two">
-                        <div class="inner-box">
-                            <div class="image-box">
-                                <div class="icon-box">
-                                    <i class="icon flaticon-advertising"></i>
-                                </div>
-                                <figure class="image"><a href="service-details.php" class="lightbox-image"><img src="images/resource/digital-marketing.jpg" alt="Image"></a></figure>
-                            </div>
-                            <div class="content-box">
-                                <span class="sub-title">03 Service</span>
-                                <h4 class="title"><a href="service-details.php">Web Development</a></h4>
-                            </div>
-                            <div class="button-box">
-                                <a href="service-details.php" class="read-more">Read More <i class="fa fa-angle-right"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="service-block-two">
-                        <div class="inner-box">
-                            <div class="image-box">
-                                <div class="icon-box">
-                                    <i class="icon flaticon-advertising"></i>
-                                </div>
-                                <figure class="image"><a href="service-details3.php" class="lightbox-image"><img src="images/resource/service2-3.jpg" alt="Image"></a></figure>
-                            </div>
-                            <div class="content-box">
-                                <span class="sub-title">04 Service</span>
-                                <h4 class="title"><a href="service-details3.php">Digital Marketing</a></h4>
-                            </div>
-                            <div class="button-box">
-                                <a href="service-details3.php" class="read-more">Read More <i class="fa fa-angle-right"></i></a>
-                            </div>
-                        </div>
-                    </div>
-              
-                </div>
-            </div>
+We believe in not just attracting the right talent that would enable us to fulfill our vision but also cultivating and nurturing our existing talent by investing heavily into the latest training and courses to upgrade their skills and provide them with the opportunity to change their lives and become brand ambassadors of Pakistan.
         </div>
     </div>
 
-    <!-- News Section -->
-    <section class="news-section">
-        <div class="auto-container">
-            <div class="sec-title text-center">
-                <span class="sub-title">from the blog</span>
-                <h2>News<span> & </span>Articles</h2>
-            </div>
+   
 
-            <div class="carousel-outer">
-                <div class="news-carousel owl-carousel owl-theme default-dots">
-
-                    <!-- News Block -->
-                    <div class="news-block">
-                        <div class="inner-box">
-                            <div class="image-box">
-                                <figure class="image"><a href="news-details.html"><img src="images/resource/news-1.jpg" alt=""></a></figure>
-                                <div class="date"><span>01</span> NOV</div>
-                            </div>
-                            <div class="content-box">
-                                <ul class="post-info">
-                                    <li><i class="fa fa-user"></i> by Admin</li>
-                                    <li><i class="fa fa-tag"></i> Technology</li>
-                                </ul>
-                                <h4 class="title"><a href="news-details.html">15 Critical Websites for Web Developers</a></h4>
-                            </div>
-                            <div class="bottom-box">
-                                <a href="news-details.html" class="read-more">Read More <i class="fa fa-long-arrow-alt-right"></i></a>
-                                <div class="comments"><i class="fa fa-comments"></i> 02</div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- News Block -->
-                    <div class="news-block">
-                        <div class="inner-box">
-                            <div class="image-box">
-                                <figure class="image"><a href="news-details.html"><img src="images/resource/news-2.jpg" alt=""></a></figure>
-                                <div class="date"><span>31</span> OCT</div>
-                            </div>
-                            <div class="content-box">
-                                <ul class="post-info">
-                                    <li><i class="fa fa-user"></i> by Admin</li>
-                                    <li><i class="fa fa-tag"></i> Technology</li>
-                                </ul>
-                                <h4 class="title"><a href="news-details.html">Best SEO Strategies</a></h4>
-                            </div>
-                            <div class="bottom-box">
-                                <a href="news-details.html" class="read-more">Read More <i class="fa fa-long-arrow-alt-right"></i></a>
-                                <div class="comments"><i class="fa fa-comments"></i> 02</div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- News Block -->
-                    <div class="news-block">
-                        <div class="inner-box">
-                            <div class="image-box">
-                                <figure class="image"><a href="news-details.html"><img src="images/resource/news-3.jpg" alt=""></a></figure>
-                                <div class="date"><span>29</span> OCT</div>
-                            </div>
-                            <div class="content-box">
-                                <ul class="post-info">
-                                    <li><i class="fa fa-user"></i> by Admin</li>
-                                    <li><i class="fa fa-tag"></i> Technology</li>
-                                </ul>
-                                <h4 class="title"><a href="news-details.html">Cloud Hosting – Is it suitable for everyone?</a></h4>
-                            </div>
-                            <div class="bottom-box">
-                                <a href="news-details.html" class="read-more">Read More <i class="fa fa-long-arrow-alt-right"></i></a>
-                                <div class="comments"><i class="fa fa-comments"></i> 02</div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!--End News Section -->
-
-    <!-- Clients Section -->
-    <section class="clients-section">
-        <div class="icon-lines-5"></div>
-        <div class="auto-container">
-            <div class="outer-box">
-                <!-- Sponsors Outer -->
-                <div class="sponsors-outer">
-                    <!--clients carousel-->
-                    <ul class="clients-carousel owl-carousel owl-theme">
-                        <li class="slide-item"> <a href="#"><img src="images/resource/client.png" alt=""></a> </li>
-                        <li class="slide-item"> <a href="#"><img src="images/resource/client.png" alt=""></a> </li>
-                        <li class="slide-item"> <a href="#"><img src="images/resource/client.png" alt=""></a> </li>
-                        <li class="slide-item"> <a href="#"><img src="images/resource/client.png" alt=""></a> </li>
-                        <li class="slide-item"> <a href="#"><img src="images/resource/client.png" alt=""></a> </li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!--End Clients Section -->
-
+   
     <?php include 'footer.php'; ?>
     <!--End Main Footer -->
 
