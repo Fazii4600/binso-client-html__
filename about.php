@@ -5,13 +5,8 @@
 
 <title>Softech UK Team</title>
 
-<<<<<<< HEAD
-<!-- Stylesheets  faizann-->
-=======
 <!-- Stylesheets -->
-
-<!-- sfaizan -->
->>>>>>> c27a85381f3a7058199400b588f80abd11d7aec5
+ 
 <link href="css/bootstrap.min.css" rel="stylesheet">
 
 <link href="css/style.css" rel="stylesheet">
