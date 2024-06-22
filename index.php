@@ -272,7 +272,7 @@
         <div class="feature-block-two dark col-xl-2 col-lg-3 col-md-4 col-sm-6 wow fadeInUp">
           <div class="inner-box ">
             <i class="icon flaticon-online-shopping"></i>
-            <h6 class="title"><a href="page-service-details.html">Accounts & Finance</a></h6>
+            <h6 class="title"><a href="service-details3.php">Accounts & Finance</a></h6>
           </div>
         </div>
 
@@ -280,7 +280,7 @@
         <div class="feature-block-two dark col-xl-2 col-lg-3 col-md-4 col-sm-6 wow fadeInUp">
           <div class="inner-box ">
             <i class="icon flaticon-advertising"></i>
-            <h6 class="title"><a href="page-service-details.html">Graphic Designing & Video Editing</a></h6>
+            <h6 class="title"><a href="service-details4.php">Graphic Designing & Video Editing</a></h6>
           </div>
         </div>
 
@@ -288,7 +288,7 @@
         <div class="feature-block-two dark col-xl-2 col-lg-3 col-md-4 col-sm-6 wow fadeInUp">
           <div class="inner-box ">
             <i class="icon flaticon-verification"></i>
-            <h6 class="title"><a href="page-service-details.html">Digital Marketing</a></h6>
+            <h6 class="title"><a href="service-details5.php">Digital Marketing</a></h6>
           </div>
         </div>
 
