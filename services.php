@@ -212,87 +212,70 @@
 	</section>
 	<!-- end main-content -->
 
-	<!-- Services Section -->
-	<section class="">
-		<div class="container pb-90">
-      <div class="carousel-outer">
-        <div class="service-carousel owl-carousel owl-theme default-dots">
-          <div class="service-block-two">
-            <div class="inner-box">
-              <div class="image-box">
-                <div class="icon-box">
-                  <i class="icon flaticon-front-end"></i>
-                </div>
-                <figure class="image"><a href="service-details1.php" class="lightbox-image"><img src="images/resource/service2-1.jpg" alt="Image"></a></figure>
-              </div>
-              <div class="content-box">
-                <span class="sub-title">01 Service</span>
-                <h4 class="title"><a href="service-details1.php">HR & Admin</a></h4>
-              </div>
-              <div class="button-box">
-                <a href="service-details1.php" class="read-more">Read More <i class="fa fa-angle-right"></i></a>
-              </div>
-            </div>
-          </div>
+	
+  <!-- Industries Section -->
+  <section class="industries-section style-two">
+    <div class="auto-container">
+      <div class="sec-title text-center light">
+        <span class="sub-title">Services we’re offering</span>
+        <h2><span style="color: black;">We’re Dedicated to Serve <br/>you</span> <span> All Time</span></h2>
 
-          <div class="service-block-two">
-            <div class="inner-box">
-              <div class="image-box">
-                <div class="icon-box">
-                  <i class="icon flaticon-online-shopping"></i>
-                </div>
-                <figure class="image"><a href="service-details2.php" class="lightbox-image"><img src="images/resource/service2-2.jpg" alt="Image"></a></figure>
-              </div>
-              <div class="content-box">
-                <span class="sub-title">02 Service</span>
-                <h4 class="title"><a href="service-details2.php">E-Commerce Solutions</a></h4>
-              </div>
-              <div class="button-box">
-                <a href="service-details2.php" class="read-more">Read More <i class="fa fa-angle-right"></i></a>
-              </div>
-            </div>
-          </div>
 
-          <div class="service-block-two">
-            <div class="inner-box">
-              <div class="image-box">
-                <div class="icon-box">
-                  <i class="icon flaticon-advertising"></i>
-                </div>
-                <figure class="image"><a href="service-details.php" class="lightbox-image"><img src="images/resource/digital-marketing.jpg" alt="Image"></a></figure>
-              </div>
-              <div class="content-box">
-                <span class="sub-title">03 Service</span>
-                <h4 class="title"><a href="service-details.php">Web Development</a></h4>
-              </div>
-              <div class="button-box">
-                <a href="service-details.php" class="read-more">Read More <i class="fa fa-angle-right"></i></a>
-              </div>
-            </div>
-          </div>
-          <div class="service-block-two">
-            <div class="inner-box">
-              <div class="image-box">
-                <div class="icon-box">
-                  <i class="icon flaticon-advertising"></i>
-                </div>
-                <figure class="image"><a href="service-details3.php" class="lightbox-image"><img src="images/resource/service2-3.jpg" alt="Image"></a></figure>
-              </div>
-              <div class="content-box">
-                <span class="sub-title">04 Service</span>
-                <h4 class="title"><a href="service-details3.php">Digital Marketing</a></h4>
-              </div>
-              <div class="button-box">
-                <a href="service-details3.php" class="read-more">Read More <i class="fa fa-angle-right"></i></a>
-              </div>
-            </div>
-            
+      </div>
+      <div class="row justify-content-center">
+        <!-- Feature Block Two -->
+        <div class="feature-block-two dark col-xl-2 col-lg-3 col-md-4 col-sm-6 wow fadeInUp">
+          <div class="inner-box ">
+            <i class="icon flaticon-color-sample"></i>
+            <h6 class="title"><a href="service-details1.php">Software Development</a></h6>
           </div>
         </div>
+
+        <!-- Feature Block Two -->
+        <div class="feature-block-two dark col-xl-2 col-lg-3 col-md-4 col-sm-6 wow fadeInUp">
+          <div class="inner-box ">
+            <i class="icon flaticon-front-end"></i>
+            <h6 class="title"><a href="service-details2.php">Business Development</a></h6>
+          </div>
+        </div>
+
+        <!-- Feature Block Two -->
+        <div class="feature-block-two dark col-xl-2 col-lg-3 col-md-4 col-sm-6 wow fadeInUp">
+          <div class="inner-box ">
+            <i class="icon flaticon-verification"></i>
+            <h6 class="title"><a href="service-details3.php">Accounts & Finance</a></h6>
+          </div>
+        </div>
+
+        <!-- Feature Block Two -->
+        <div class="feature-block-two dark col-xl-2 col-lg-3 col-md-4 col-sm-6 wow fadeInUp">
+          <div class="inner-box ">
+            <i class="icon flaticon-advertising"></i>
+            <h6 class="title"><a href="service-details4.php">Graphic Designing & Video Editing</a></h6>
+          </div>
+        </div>
+
+        <!-- Feature Block Two -->
+        <div class="feature-block-two dark col-xl-2 col-lg-3 col-md-4 col-sm-6 wow fadeInUp">
+          <div class="inner-box ">
+            <i class="icon flaticon-online-shopping"></i>
+            <h6 class="title"><a href="service-details5.php">Digital Marketing</a></h6>
+          </div>
+        </div>
+
+        <!-- Feature Block Two -->
+        <div class="feature-block-two dark col-xl-2 col-lg-3 col-md-4 col-sm-6 wow fadeInUp">
+          <div class="inner-box ">
+            <i class="icon flaticon-design"></i>
+            <h6 class="title"><a href="service-details6.php">SEO</a></h6>
+          </div>
+        </div>
+
       </div>
     </div>
   </section>
-  <!-- End Services Section-->
+  <!-- End Industries Section -->
+
 
   <!-- Main Footer -->
   <?php include 'footer.php'; ?>

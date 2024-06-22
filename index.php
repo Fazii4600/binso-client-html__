@@ -249,7 +249,7 @@
     <div class="auto-container">
       <div class="sec-title text-center light">
         <span class="sub-title">Services we’re offering</span>
-        <h2>We’re Dedicated to Serve <br/>you <span> All Time</span></h2>
+        <h2><span style="color: black;">We’re Dedicated to Serve <br/>you</span> <span> All Time</span></h2>
       </div>
       <div class="row justify-content-center">
         <!-- Feature Block Two -->

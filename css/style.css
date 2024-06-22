@@ -3912,7 +3912,7 @@ Main Header
   background-color: var(--theme-color1);
 }
 .industries-section.style-two:before {
-  background-image: url(../images/icons/pattern-1.jpg);
+  background-color: white;
 }
 .industries-section .feature-block-two {
   position: relative;
