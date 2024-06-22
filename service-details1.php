@@ -87,7 +87,6 @@
 						<ul class="navigation">
 						  <li ><a href="index.php">Home</a></li>
 						  <li><a href="about.php">About</a></li>
-						  <li><a href="team.php">Team</a></li>
 						  <li class="current"><a href="services.php">Services</a></li>
 						  <li><a href="contact.php">Contact</a></li>
 						</ul>
