@@ -227,10 +227,13 @@
 										<div class="sidebar-service-list">
 											<ul>
 												<li class="current"><a href="service-details1.php" class="current"><i class="fas fa-angle-right"></i><span>HR & Admin</span></a></li>
-												<li ><a href="service-details2.php"><i class="fas fa-angle-right"></i><span>E-Commerce Solutions</span></a></li>
-												<li ><a href="service-details.php"><i class="fas fa-angle-right"></i><span>Web development</span></a></li>
-												
+												<li ><a href="service-details2.php"><i class="fas fa-angle-right"></i><span>Bussiness Development</span></a></li>
+												<li ><a href="service-details.php"><i class="fas fa-angle-right"></i><span>Accounts & Finance</span></a></li>
+												<li><a href="service-details3.php"><i class="fas fa-angle-right"></i><span>Software Development</span></a></li>
+												<li><a href="service-details3.php"><i class="fas fa-angle-right"></i><span>Graphic Designing & Video Editing</span></a></li>
 												<li><a href="service-details3.php"><i class="fas fa-angle-right"></i><span>Digital Marketing</span></a></li>
+												<li><a href="service-details3.php"><i class="fas fa-angle-right"></i><span>SEO</span></a></li>
+												<li><a href="service-details3.php"><i class="fas fa-angle-right"></i><span>Website Development</span></a></li>
 												
 											</ul>
 										</div>
