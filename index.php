@@ -322,7 +322,7 @@
                             </div>
                             <div class="content-box">
                                 <span class="sub-title">01 Service</span>
-                                <h4 class="title"><a href="service-details1.php">ERP Solutions</a></h4>
+                                <h4 class="title"><a href="service-details1.php">HR & Admin</a></h4>
                             </div>
                             <div class="button-box">
                                 <a href="service-details1.php" class="read-more">Read More <i class="fa fa-angle-right"></i></a>
@@ -340,7 +340,7 @@
                             </div>
                             <div class="content-box">
                                 <span class="sub-title">02 Service</span>
-                                <h4 class="title"><a href="service-details2.php">E-Commerce Solutions</a></h4>
+                                <h4 class="title"><a href="service-details2.php">Business Development</a></h4>
                             </div>
                             <div class="button-box">
                                 <a href="service-details2.php" class="read-more">Read More <i class="fa fa-angle-right"></i></a>
@@ -358,7 +358,7 @@
                             </div>
                             <div class="content-box">
                                 <span class="sub-title">03 Service</span>
-                                <h4 class="title"><a href="service-details.php">Web Development</a></h4>
+                                <h4 class="title"><a href="service-details.php">Accounts & Finance</a></h4>
                             </div>
                             <div class="button-box">
                                 <a href="service-details.php" class="read-more">Read More <i class="fa fa-angle-right"></i></a>
@@ -375,6 +375,42 @@
                             </div>
                             <div class="content-box">
                                 <span class="sub-title">04 Service</span>
+                                <h4 class="title"><a href="service-details3.php">Software Development</a></h4>
+                            </div>
+                            <div class="button-box">
+                                <a href="service-details3.php" class="read-more">Read More <i class="fa fa-angle-right"></i></a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="service-block-two">
+                        <div class="inner-box">
+                            <div class="image-box">
+                                <div class="icon-box">
+                                    <i class="icon flaticon-advertising"></i>
+                                </div>
+                                <figure class="image"><a href="service-details3.php" class="lightbox-image"><img src="images/resource/digital-marketing.jpg" alt="Image"></a></figure>
+                            </div>
+                            <div class="content-box">
+                                <span class="sub-title">05 Service</span>
+                                <h4 class="title"><a href="service-details3.php">Graphic Designing & Video Editing</a></h4>
+                            </div>
+                            <div class="button-box">
+                                <a href="service-details3.php" class="read-more">Read More <i class="fa fa-angle-right"></i></a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="service-block-two">
+                        <div class="inner-box">
+                            <div class="image-box">
+                                <div class="icon-box">
+                                    <i class="icon flaticon-advertising"></i>
+                                </div>
+                                <figure class="image"><a href="service-details3.php" class="lightbox-image"><img src="images/resource/digital-marketing.jpg" alt="Image"></a></figure>
+                            </div>
+                            <div class="content-box">
+                                <span class="sub-title">06 Service</span>
                                 <h4 class="title"><a href="service-details3.php">Digital Marketing</a></h4>
                             </div>
                             <div class="button-box">
@@ -382,6 +418,44 @@
                             </div>
                         </div>
                     </div>
+
+                    <div class="service-block-two">
+                        <div class="inner-box">
+                            <div class="image-box">
+                                <div class="icon-box">
+                                    <i class="icon flaticon-advertising"></i>
+                                </div>
+                                <figure class="image"><a href="service-details3.php" class="lightbox-image"><img src="images/resource/digital-marketing.jpg" alt="Image"></a></figure>
+                            </div>
+                            <div class="content-box">
+                                <span class="sub-title">07 Service</span>
+                                <h4 class="title"><a href="service-details3.php">SEO</a></h4>
+                            </div>
+                            <div class="button-box">
+                                <a href="service-details3.php" class="read-more">Read More <i class="fa fa-angle-right"></i></a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="service-block-two">
+                        <div class="inner-box">
+                            <div class="image-box">
+                                <div class="icon-box">
+                                    <i class="icon flaticon-advertising"></i>
+                                </div>
+                                <figure class="image"><a href="service-details3.php" class="lightbox-image"><img src="images/resource/digital-marketing.jpg" alt="Image"></a></figure>
+                            </div>
+                            <div class="content-box">
+                                <span class="sub-title">08 Service</span>
+                                <h4 class="title"><a href="service-details3.php">Website Development</a></h4>
+                            </div>
+                            <div class="button-box">
+                                <a href="service-details3.php" class="read-more">Read More <i class="fa fa-angle-right"></i></a>
+                            </div>
+                        </div>
+                    </div>
+
+                    
               
                 </div>
             </div>
