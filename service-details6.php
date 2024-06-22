@@ -260,7 +260,7 @@
 								</div>
 							</div>
 
-							!--Start Services Details Content-->
+							<!--Start Services Details Content-->
 <div class="col-xl-8 col-lg-8">
 								<div class="services-details__content">
 									<img src="images/resource/erp-solution2.jpg" alt="" />
