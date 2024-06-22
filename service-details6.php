@@ -263,7 +263,7 @@
 							<!--Start Services Details Content-->
 <div class="col-xl-8 col-lg-8">
 								<div class="services-details__content">
-									<img src="images/resource/erp-solution2.jpg" alt="" />
+								<img src="https://images.pexels.com/photos/270637/pexels-photo-270637.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Woman coding on computer" style="width: 1300px; height: 650px; object-fit: contain;" />
 									<h3 class="mt-4">Service Overview</h3>
 									<h4 class="mt-4">About Softech</h4>
 									<p>Softech is a dynamic and rapidly expanding organization with a team of 400+ dedicated professionals. We proudly serve 250+ active clients, delivering unparalleled solutions and services. As we continue to grow, we're seeking an experienced Software Developer to join our team and contribute to our innovative projects.</p>
