@@ -275,57 +275,7 @@
 									
 									
 										
-									<div class=" mt-25">
-										<h3>Frequently Asked Question</h3>
-										<ul class="accordion-box wow fadeInRight">
-											<!--Block-->
-											<li class="accordion block">
-												<div class="acc-btn">How does Softech UK ensure the quality of its services?
-													<div class="icon fa fa-plus"></div>
-												</div>
-												<div class="acc-content">
-													<div class="content">
-														<div class="text">We adhere to rigorous quality assurance processes, including multiple testing stages and peer reviews to ensure every deliverable meets the highest standards of quality and functionality.</div>
-													</div>
-												</div>
-											</li>
-											<!--Block-->
-											<li class="accordion block active-block">
-												<div class="acc-btn active">Can Softech UK provide ongoing support and maintenance after project completion?
-													<div class="icon fa fa-plus"></div>
-												</div>
-												<div class="acc-content current">
-													<div class="content">
-														<div class="text">Yes, we offer ongoing support and maintenance services to ensure your software continues to perform optimally. Our support packages can be customized to meet your specific needs.</div>
-													</div>
-												</div>
-											</li>
-											<!--Block-->
-											<li class="accordion block">
-												<div class="acc-btn">What industries does Softech UK cater to?
-													<div class="icon fa fa-plus"></div>
-												</div>
-												<div class="acc-content">
-													<div class="content">
-														<div class="text">We serve a variety of industries including healthcare, finance, education, retail, and more. Our solutions are tailored to meet the unique challenges and compliance requirements of each sector.</div>
-													</div>
-												</div>
-											</li>
-											<!--Block-->
-											<li class="accordion block">
-												<div class="acc-btn">How does Softech UK ensure the quality of its services?
-													<div class="icon fa fa-plus"></div>
-												</div>
-												<div class="acc-content">
-													<div class="content">
-														<div class="text">We adhere to rigorous quality assurance processes, including multiple testing stages and peer reviews to ensure every deliverable meets the highest standards of quality and functionality.</div>
-													</div>
-												</div>
-											</li>
-										</ul>
-									</div>
-								</div>
-							</div>
+									
 							<!--End Services Details Content-->
 						</div>
 					</div>
