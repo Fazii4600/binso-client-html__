@@ -272,19 +272,7 @@
 										With Softech as your ERP solutions partner, you can expect an efficient, flexible, and scalable system that aligns with your strategic goals and fosters growth. We are committed to not just meeting, but surpassing your expectations, and our ERP solutions are a testament to that dedication.</p>
 									
 									
-										<div class="feature-list mt-4">
-											<div class="row clearfix">
-												<div class="col-lg-6 col-md-6 col-sm-12 column">
-													<img class="mb-3" src="images/resource/service-d1.jpg" alt="images" />
-													<p>Whether you are currently considering the implementation of an Enterprise Resource Planning (ERP) system for your organization or already have an ERP system in place, Softech stands ready to assist you in optimizing your business operations. Our expertise spans the full spectrum of ERP solutions, and we offer tailored services to meet your specific needs. If you are in the early stages of contemplating an ERP for your organization, we can guide you through the process, from conceptualization to system development. Our team will work closely with you to understand your business requirements and design a customized ERP solution that seamlessly aligns with your goals and objectives.</p>
-												</div>
-												<div class="col-lg-6 col-md-6 col-sm-12 column">
-													<img class="mb-3" src="images/resource/service-d2.jpg" alt="images" />
-													<p>Softech UK can assist you, whether you need a new ERP built from scratch or want to enhance your existing system with additional development for seamless integration of custom applications, software integrations, modules, and features, creating the ultimate bespoke solution.</p>
-												</div>
-											</div>
-										</div>
-									</div>
+										
 									<div class=" mt-25">
 										<h3>Frequently Asked Question</h3>
 										<ul class="accordion-box wow fadeInRight">
