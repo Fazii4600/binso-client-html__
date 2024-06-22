@@ -227,7 +227,7 @@
               </div>
               <div class="content-box">
                 <span class="sub-title">01 Service</span>
-                <h4 class="title"><a href="service-details1.php">ERP Solutions</a></h4>
+                <h4 class="title"><a href="service-details1.php">HR & Admin</a></h4>
               </div>
               <div class="button-box">
                 <a href="service-details1.php" class="read-more">Read More <i class="fa fa-angle-right"></i></a>

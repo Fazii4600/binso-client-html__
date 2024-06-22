@@ -203,11 +203,11 @@
 				<section class="page-title" style="background-image: url(images/background/page-title.jpg);">
 					<div class="auto-container">
 						<div class="title-outer">
-							<h1 class="title">ERP Solutions</h1>
+							<h1 class="title">HR & Admin</h1>
 							<ul class="page-breadcrumb">
 								<li><a href="index.php">Home</a></li>
 								<li><a href="services.php">Services</a></li>
-								<li>ERP Solutions</li>
+								<li>HR & Admin</li>
 							</ul>
 						</div>
 					</div>
@@ -226,7 +226,7 @@
 
 										<div class="sidebar-service-list">
 											<ul>
-												<li class="current"><a href="service-details1.php" class="current"><i class="fas fa-angle-right"></i><span>ERP Solutions</span></a></li>
+												<li class="current"><a href="service-details1.php" class="current"><i class="fas fa-angle-right"></i><span>HR & Admin</span></a></li>
 												<li ><a href="service-details2.php"><i class="fas fa-angle-right"></i><span>E-Commerce Solutions</span></a></li>
 												<li ><a href="service-details.php"><i class="fas fa-angle-right"></i><span>Web development</span></a></li>
 												
