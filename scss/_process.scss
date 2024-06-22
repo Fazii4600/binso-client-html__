@@ -1,0 +1,150 @@
+/***
+
+====================================================================
+    Process Section
+====================================================================
+
+***/
+
+.process-section {
+    position: relative;
+    padding: 120px 0 50px;
+    .bg {
+        &:before {
+            content: '';
+            @include overlay;
+            background-color: #232331;
+            opacity: .95;
+        }
+    }
+    .overlay-3 {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+    }
+    .icon-plane-9 {
+        position: absolute;
+        top: 40%;
+        left: -45px;
+        z-index: 3;
+        @include for-xxl{
+            display: none;
+        }
+    }
+    .float-image {
+        position: absolute;
+        top: 0;
+        right: 0;
+        @include for-xxl{
+            max-width: 30%;
+        }
+        @include media-breakpoint-down(xxl){
+            display: none;
+        }
+    }
+    .sec-title {
+        margin-bottom: 80px;
+    }
+}
+
+.process-block {
+    margin-bottom: 70px;
+    &:last-child {.inner-box {&:before {display: none;}}}
+    &:nth-child(2) {
+        .inner-box {
+            &:before {
+                transform: scaleY(-1);
+            }
+        }
+    }
+    .inner-box {
+        position: relative;
+        max-width: 250px;
+        margin: 0 auto;
+        text-align: center;
+        &:before {
+            content: '';
+            position: absolute;
+            top: 40px;
+            right: -140px;
+            width: 137px;
+            height: 18px;
+            background-image: url(../images/icons/icon-border-3.png);
+        }
+        &:hover {
+            .icon {
+                transform: scaleX(-1);
+                background-color: var(--theme-color1) !important;
+                color: var(--theme-color-light) !important;
+            }
+            .count {
+                background-color: var(--theme-color1);
+                color: var(--theme-color-light);
+            }
+        }
+        .content {
+            position: relative;
+            padding: 115px 35px 75px;
+            border-radius: 200px;
+            overflow: hidden;
+            background-color: #050c11;
+        }
+        .icon-box {
+            position: absolute;
+            top: -20px;
+            left: 0;
+            right: 0;
+            margin: 0 auto;
+            z-index: 3;
+            &:before {
+                content: '';
+                position: absolute;
+                top: -15px;
+                right: 70px;
+                width: 70px;
+                height: 117px;
+                background-image: url(../images/icons/icon-border-2.png);
+            }
+            .icon {
+                position: relative;
+                display: inline-block;
+                width: 91px;
+                height: 91px;
+                line-height: 91px;
+                font-size: 45px;
+                border-radius: 50%;
+                color: var(--theme-color1);
+                background-color: var(--theme-color-light);
+                @include transition(all 300ms ease);
+            }
+        }
+        .title {
+            color: var(--theme-color-light);
+            margin-bottom: 5px;
+            a:hover {
+                color: var(--theme-color1);
+            }
+        }
+        .text {
+            color: var(--theme-color-light);
+            margin-bottom: 35px;
+        }
+        .count {
+            position: relative;
+            width: 72px;
+            height: 72px;
+            line-height: 72px;
+            border-radius: 50%;
+            margin: 0 auto;
+            color: var(--theme-color-light);
+            background-color: #0b1720;
+            text-align: center;
+            @include transition(all 300ms ease);
+        }
+        .icon-shapes {
+            position: absolute;
+            bottom: 0;
+            right: 0;
+        }
+    }
+}

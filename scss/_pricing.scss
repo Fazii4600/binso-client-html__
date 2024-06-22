@@ -1,0 +1,109 @@
+/*** 
+
+====================================================================
+    pricing Section
+====================================================================
+
+***/
+
+.pricing-section {
+    padding: 370px 0 120px;
+    position: relative;
+    @include media-breakpoint-down(lg){
+        padding: 329px 0 70px;
+    }
+    .bg-image {
+        height: 70%;
+        z-index: -1;
+    }
+    &.style-two {
+        padding: 120px 0 120px;
+        @include media-breakpoint-down(lg){
+            padding: 90px 0 90px;
+        }
+    }
+}
+
+.pricing-block {
+    overflow: hidden;
+    .inner-box {
+        background-color: #fff;
+        border-radius: 5px;
+        border: 1px solid #e3e3e3;
+        position: relative;
+        @include transition(all 300ms ease);
+        @include media-breakpoint-down(lg){
+            margin-bottom: 20px;
+        }
+        &:hover {
+            box-shadow: 0 20px 30px rgba(0, 0, 0, 0.05);
+        }
+        .icon-quotes {
+            position: absolute;
+            right: 0;
+            top: 0;
+            pointer-events: none;
+            width: 121px;
+            height: 119px;
+            transform: rotate(271deg);
+            background-image: url(../images/icons/dots-4.png);
+            z-index: 3;
+        }
+        .plan-price {
+            padding: 40px 40px 23px;
+            border-bottom: 1px solid #e3e3e3;
+            .title {
+                margin-bottom: 7px;
+                small {
+                    font-size: 20px;
+                }
+            }
+            .plan {
+                font-size: 24px;
+                color: var(--headings-color);
+            }
+        }
+        .plan-list {
+            padding: 40px 40px;
+            .user-links {
+                margin-bottom: 36px;
+                position: relative;
+                li {
+                    position: relative;
+                    color: var(--headings-color);
+                    margin-bottom: 11px;
+                    padding-left: 32px;
+                    a {                        
+                        color: var(--headings-color);
+                        position: static;
+                        &:hover {
+                            &:before {
+                                width: 100%;
+                            }
+                        }
+                        &:before {
+                            position: absolute;
+                            left: 0;
+                            bottom: 3px;
+                            width: 0;
+                            height: 1px;
+                            background-color: var(--theme-color1);
+                            content: "";
+                            @include transition(all 300ms ease);
+                        }
+                        i {
+                            position: absolute;
+                            left: 0;
+                        }
+                    }
+                }
+            }
+            .theme-btn {
+                width: 100%;
+                border-radius: 5px;
+                padding: 18px 30px;
+                text-transform: uppercase;
+            }
+        }
+    }
+}

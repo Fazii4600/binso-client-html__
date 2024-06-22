@@ -1,0 +1,117 @@
+
+/***
+
+====================================================================
+    Marquee Section
+====================================================================
+
+***/
+
+.marquee-section {
+    background-color: var(--theme-color1);
+    position: relative;
+    padding: 30px 0 40px;
+    @include media-breakpoint-down(lg){
+        padding: 20px 0 30px;
+    }
+    &.style-two {
+        background-color: var(--theme-color2);
+        .marquee {
+            .text {
+                &:hover {
+                   &:after {
+                    background-color: var(--theme-color-light);
+                   } 
+                }
+            }
+        }
+    }
+}
+
+.marquee {
+    position: relative;
+    --duration: 30s;
+    --gap: 0px;
+    display: flex;
+    overflow: hidden;
+    user-select: none;
+    gap: var(--gap);
+    .marquee-group {
+        flex-shrink: 0;
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+        gap: var(--gap);
+        min-width: 100%;
+        animation: scroll var(--duration) linear infinite;
+    }
+    .text {
+        position: relative;
+        -webkit-text-fill-color: #fff;
+        -webkit-text-stroke: 1px #fff;
+        font-size: 60px;
+        font-weight: 700;
+        line-height: 1.3;
+        padding-left: 40px;
+        margin-left: 40px;
+        font-family: var(--title-font);
+        @include media-breakpoint-down(lg){
+            font-size: 36px;
+        }
+        &:after {
+            background-color: #fff;
+            border-radius: 50%;
+            content: "";
+            position: absolute;
+            left: 0;
+            top: calc(50% - 2px);
+            height: 9px;
+            width: 9px;
+            @include transition(all 300ms ease);
+        }
+        &:hover {
+           &:after {
+            background-color: var(--theme-color-dark);
+           } 
+        }
+        &:before {
+            position: absolute;
+            content: attr(data-text);
+            top: -35px;
+            left: 40px;
+            -webkit-text-fill-color: var(--theme-color2);
+            width: 0;
+            @include transition(all 300ms ease);
+            overflow: hidden;
+            padding-top: 35px;
+            display: flex;
+            height: calc(100% + 55px);
+        }
+        &:hover {
+          &:before {
+            width: 100%;
+          }
+        }
+    }
+    @media (prefers-reduced-motion: reduce) {
+        .marquee-group {
+            animation-play-state: play;
+        }
+    }
+    @keyframes scroll {
+        0% {
+            transform: translateX(0);
+        }
+        100% {
+            transform: translateX(calc(-100% - var(--gap)));
+        }
+    }
+
+    &.slide-right {
+        transform: scaleX(-1);
+        .text {
+            transform: scaleX(-1);
+        }
+    }
+}
+

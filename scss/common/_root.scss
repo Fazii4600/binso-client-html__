@@ -1,0 +1,85 @@
+//Root 
+@function hexToRGB($hex) {
+  @return red($hex), green($hex), blue($hex);
+}
+
+//Define theme colors
+$theme-color1: #ff6809;
+$theme-color2: #111;
+:root {
+
+  //theme color
+  --theme-color-light: #ffffff;
+  --theme-color-dark: #111;
+  
+  //theme colors
+  --theme-color1: #{$theme-color1};
+  --theme-color2: #{$theme-color2};
+
+  --theme-color1-dark: #13121d;
+
+  
+  //text heading color
+  --text-color:         #696969;
+  --headings-color:     #111;
+  --review-color:       #fdc009;
+  --link-color:         var(--theme-color-dark);
+  --link-hover-color:   var(--theme-color-dark);
+
+
+  //font family
+  --text-font: 'Roboto', sans-serif;
+  --title-font: 'Poppins', sans-serif;
+  --style-font: 'Allison', sans-serif;
+  
+  //body
+  --body-font-size:   16px;
+  --body-line-height: 30px;
+  --body-font-weight: 400;
+
+  //heading font size + weight
+  --line-height-heading-h1: 1.2em;
+  --line-height-heading: 1.211em;
+  --line-height-heading-small: 1.4em;
+
+  --h1-font-size: 72px;
+  --h2-font-size: 48px;
+  --h3-font-size: 40px;
+  --h4-font-size: 24px;
+  --h5-font-size: 20px;
+  --h6-font-size: 18px;
+
+  --h1-font-weight: 700;
+  --h2-font-weight: 700;
+  --h3-font-weight: 700;
+  --h4-font-weight: 700;
+  --h5-font-weight: 700;
+  --h6-font-weight: 700;
+
+  //section sub title
+  --sec-title-subtitle-color: var(--theme-color1);
+  --sec-title-subtitle-font-size: 14px;
+  --sec-title-subtitle-font-family: var(--text-font);
+  --sec-title-subtitle-font-weight: 600;
+  --sec-title-subtitle-line-height: 30px;
+
+  //section title
+  --sec-title-color:                 var(--theme-color-dark);
+  --sec-title-font-size:             var(--h2-font-size);
+  --sec-title-font-family:           var(--title-font);
+  --sec-title-font-weight:           700;
+  --sec-title-title-line-height: 54px;
+
+  //news details page
+  --theme-light-background: #f8f6f1;
+  --theme-light-background-text-color: var(--headings-color);
+  --theme-black:        #111;
+
+
+  //container
+  --container-width: 1200px;
+  --small-container-width: 1000px;
+  --large-container-width: 1196px;
+  --container-pt:    120px;
+  --container-pb:    120px;
+}

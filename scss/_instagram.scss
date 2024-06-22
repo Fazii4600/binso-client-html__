@@ -1,0 +1,145 @@
+
+/*** 
+
+====================================================================
+    Industries Section
+====================================================================
+
+***/
+
+.industries-section{
+    position: relative;
+    padding: 110px 0 90px;
+    z-index: 2;
+    @include media-breakpoint-down(lg){
+        padding: 80px 0 60px;
+    }
+    &:before{
+        @include overlay;
+        @include background;
+        background-color: var(--theme-color1);
+        background-image: url(../images/icons/pattern-16.png);
+        content: "";
+    }
+
+    .title-column{
+        position: relative;
+        margin-bottom: 60px;
+        .sec-title{
+            margin-bottom: 0;
+        }
+    }
+    .image-column{
+        position: relative;
+        margin-bottom: 60px;
+        .image-box{
+            position: relative;
+            padding-left: 70px;
+            text-align: right;
+            .image{
+                position: relative;
+                margin-bottom: 0;
+                &:before{
+                    position: absolute;
+                    left: -10px;
+                    top: 30px;
+                    bottom: 30px;
+                    background-color: var(--theme-color2);
+                    width: 10px;
+                    content: "";
+                }
+                img{
+                    display: block;
+                }
+            }
+        }
+    }
+
+    &.style-two{
+        background-color: var(--theme-color1);
+        &:before {
+            background-image: url(../images/icons/pattern-1.jpg);
+        }
+    }
+
+    .feature-block-two{
+        position: relative;
+        margin-bottom: 30px;
+        z-index: 1;
+        .inner-box {
+            position: relative;
+            overflow: hidden;
+            height: 100%;
+            padding: 30px 20px 25px;
+            background-color: #ffffff;
+            @include background;
+            text-align: center;
+            min-height: 175px;
+            box-shadow: 0 10px 60px rgba(0, 0, 0, .07);
+            transition: all 300ms linear;
+            &:before {
+                @include overlay;
+                background-color: #ffffff;
+                content: "";
+                transition: all 300ms linear;
+            }
+            &:hover {
+                transform: translateY(-10px);
+                &:before {
+                    height: 0;
+                }
+                .icon {
+                    color: var(--theme-color-light);
+                }
+                .title{
+                    color: #ffffff;
+                }
+            }
+        }
+        .icon {
+            position: relative;
+            display: block;
+            font-size: 64px;
+            color: var(--theme-color1);
+            font-weight: 900;
+            line-height: 64px;
+            margin-bottom: 30px;
+            transition: all 200ms linear;
+        }
+        .title {
+            font-size: 16px;
+            margin-bottom: 0;
+            &:hover {
+                a {
+                    color: var(--theme-color2);
+                }
+            }
+            a{
+                color: inherit;
+            }
+        }
+
+
+        //Dark Version
+        &.dark{
+            .inner-box{
+                background-color: var(--theme-color1);
+                &:before {
+                    background-color: #111;
+                }
+                &:hover{
+                    .title{
+                        color: var(--theme-color-light);
+                    }
+                    .icon{
+                        color: var(--theme-color-light);
+                        transform: scale(-1) rotate(180deg);
+                    }
+                }
+            }
+            .title{
+                color: #ffffff;
+            }
+        }
+    }
+}

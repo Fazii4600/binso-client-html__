@@ -1,0 +1,23 @@
+/*** 
+
+====================================================================
+    Map Section
+====================================================================
+
+***/
+.map-section{
+    position: relative;
+    min-height: 400px;
+    .map {
+        @include overlay;
+        display: block;
+        filter: grayscale(1);
+    }
+}
+.map-column {
+    position: relative;
+    .map {
+        @include overlay;
+        display: block;
+    }
+}

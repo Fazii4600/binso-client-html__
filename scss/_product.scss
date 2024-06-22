@@ -1,0 +1,322 @@
+/***
+
+====================================================================
+    Product Section
+====================================================================
+
+***/
+
+
+.product-section {
+    padding: 140px 0 100px;
+    position: relative;
+    @include media-breakpoint-down(lg){
+        padding: 100px 0 0;
+    }
+    .sec-title {
+        .text {
+            br {
+                @include media-breakpoint-down(md){
+                    display: none;
+                }
+            }
+        }
+    }
+    .testimonial-pattrn1-1 {
+        background-image: url(../images/resource/testimonial-pattrn1-1.png);
+        position: absolute;
+        width: 205px;
+        height: 263px;
+        top: 35px;
+        right: 48px;
+        pointer-events: none;
+        @include media-breakpoint-down(lg){
+            display: none;
+        }
+    }
+}
+
+.product-block {
+    @include media-breakpoint-down(lg){
+        margin-bottom: 40px;
+    }
+    .inner-box {
+        &:hover {
+            .image-box {
+                &:before {
+                    height: 100%;
+                }
+                .image {
+                    transform: scale(1.15);
+                }
+                .icon-box {
+                    bottom: 23px;
+                    .icon {
+                        transform: scale(1);
+                    }
+                }
+            }
+        }
+        .image-box {
+            position: relative;
+            overflow: hidden;
+            &:before {
+                content: "";
+                position: absolute;
+                left: 0;
+                bottom: 0;
+                width: 100%;
+                height: 0;
+                pointer-events: none;
+                z-index: 1;
+                background: linear-gradient(0deg, rgba(0, 0, 0, 0.4) 28.77%, rgba(0, 0, 0, 0) 100%);
+                @include transition(all 300ms ease);
+            }
+            .image {
+                width: 100%;
+                @include transition(all 300ms ease);
+                a {
+                    img {
+                        width: 100%;
+                    }
+                }
+            }
+            .inner {
+                display: flex;
+                flex-direction: column;
+                justify-content: flex-end;
+                position: relative;
+                align-items: center;
+            }
+            .icon-box {
+                display: flex;
+                justify-content: center;
+                position: absolute;
+                z-index: 2;
+                bottom: -40px;
+                @include transition(all 300ms ease);
+                .icon {
+                    background-color: var(--theme-color-dark);
+                    border-radius: 50%;
+                    color: var(--theme-color-light);
+                    display: inline-block;
+                    font-size: 20px;
+                    width: 40px;
+                    height: 40px;
+                    line-height: 40px;
+                    text-align: center;
+                    margin-right: 10px;
+                    transform: scale(0);
+                    @include transition(all 300ms ease);
+                    &:last-child {
+                        margin-right: 0;
+                    }
+                    &:hover {
+                        background-color: var(--theme-color1);
+                    }
+                }
+            }
+        }
+        .content-box {
+            margin-top: 34px;
+            @include media-breakpoint-down(md){
+                margin-bottom: 24px;
+            }
+            .inner {
+                text-align: center;
+                .price {
+                    color: var(--theme-color1);
+                    font-size: 30px;
+                    font-weight: 500;
+                    font-family: var(--title-font);
+                     @include media-breakpoint-down(md){
+                        font-size: 24px;
+                     }
+                    .price-style {
+                        position: relative;
+                        &:before {
+                            background-color: var(--theme-color1);
+                            content: "";
+                            position: absolute;
+                            display: block;
+                            width: 100%;
+                            height: 1px;
+                            bottom: 14px;
+                            left: 0;
+                            @include media-breakpoint-down(md){
+                                bottom: 10px;
+                            }
+                        }
+                    }
+                }
+                .title {
+                    font-weight: 500;
+                    margin-bottom: 0;
+                    margin-top: 9px;
+                     @include media-breakpoint-down(md){
+                        margin-top: 6px;
+                        font-size: 24px;
+                     }
+                    &:hover {
+                        color: var(--theme-color1);
+                    }
+                }
+            }
+        }
+    }
+}
+
+
+/***
+
+====================================================================
+    Product Deals Section
+====================================================================
+
+***/
+
+
+.product-deals-section {
+    padding: 204px 0;
+    position: relative;
+    @include media-breakpoint-down(sm){
+        padding: 170px 0;
+    }
+    &:before {
+        background: linear-gradient(to left, #141215, #141215a3, transparent, transparent);
+        content: "";
+        position: absolute;
+        left: 0;
+        top: 0;
+        height: 100%;
+        width: 100%;
+        z-index: 1;
+    }
+    .outer-box {
+        position: relative;
+        z-index: 1;
+    }
+    .curved-shape-top {
+        width: 100%;
+        height: 69px;
+        top: 0;
+        left: 0;
+        z-index: 1;
+    }
+    .curved-shape-bottom {
+        width: 100%;
+        height: 69px;
+        bottom: 0;
+        left: 0;
+        top: auto;
+        z-index: 1;
+    }
+    .sec-title {
+        h1 {
+            color: var(--theme-color-light);
+            font-size: 80px;
+            font-weight: 400;
+            @include media-breakpoint-down(md){
+                font-size: 60px;
+            }
+            @include media-breakpoint-down(md){
+                font-size: 45px;
+            }
+        }
+        .text-two {
+            color: var(--theme-color-light);
+            display: block;
+            font-size: 40px;
+            font-weight: 500;
+            font-family: var(--title-font);
+            margin-top: 5px;
+            margin-bottom: 20px;
+            @include media-breakpoint-down(md){
+                font-size: 30px;
+            }
+            @include media-breakpoint-down(md){
+                font-size: 24px;
+                margin-top: 0;
+            }
+        }
+        .text {
+            color: var(--theme-color-light);
+        }
+        .text-three {
+            color: var(--theme-color1);
+            display: block;
+            font-size: 40px;
+            font-weight: 500;
+            font-family: var(--title-font);
+            margin-top: 14px;
+            margin-bottom: 38px;            
+            @include media-breakpoint-down(md){
+                font-size: 34px;
+            }
+        }
+    }
+}
+
+.countdown-block-outer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    @include media-breakpoint-down(xl){
+        justify-content: center;
+    }
+    .countdown-block {
+        @include media-breakpoint-down(xl){
+            margin: 0 15px;
+        }
+        @include media-breakpoint-down(xl){
+            margin: 0 5px;
+        }
+        .inner-box {
+            .content-box {
+                  position: relative;
+                  display: inline-block;
+                  width: 136px;
+                  height: 134px;
+                  background-color: var(--theme-color1);
+                  border-radius: 50% 50% 50% 0;
+                  display: flex;
+                  flex-direction: column;
+                  align-items: center;
+                  justify-content: center;
+                  border: 1px dashed var(--theme-color-light);
+                  @include media-breakpoint-down(md){
+                    width: 100px;
+                    height: 100px;
+                  }
+                  @include media-breakpoint-down(sm){
+                    width: 80px;
+                    height: 80px;
+                  }
+                .countdown-time {
+                    color: var(--theme-color-light);
+                    font-size: 40px;
+                    font-weight: 500;
+                    font-family: var(--title-font);
+                    margin-bottom: 12px;
+                    @include media-breakpoint-down(md){
+                        font-size: 30px;
+                        margin-bottom: 5px;
+                    }
+                    @include media-breakpoint-down(sm){
+                        font-size: 26px;
+                        margin-bottom: 0;
+                    }
+                }
+                .countdown-title {
+                    color: var(--theme-color-light);
+                    @include media-breakpoint-down(md){
+                        font-size: 14px;
+                    }
+                    @include media-breakpoint-down(md){
+                        font-size: 12px;
+                    }
+                }
+            }
+        }
+    }
+}
