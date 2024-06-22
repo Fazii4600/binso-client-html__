@@ -240,45 +240,6 @@
   </section>
   <!-- End Main Slider -->
 
-  
-
-  <!-- About Section Five -->
-  <section class="about-section-two pull-up pb-0">
-        <div class="auto-container">
-            <div class="row">
-                <div class="content-column col-xl-6 order-2">
-                    <div class="inner-column">
-                        <div class="sec-title">
-                            <span class="sub-title">About Us</span>
-                            <h2>Who We Are</h2>
-                            <div class="text">Softech is a leading IT & Software Development company providing services to clients in North America, Europe, Australia with over 250+ Active Clients and a team of 400+ people.
-
-With a skilled team that is passionate and talented, we cultivate a winning attitude across our organization. Our supportive management allows you to excel and find your true potential to reach new heights in your career. We believe in rewarding and appreciating hard work that makes our team push their limit every single day!</div>
-                        </div>
-
-
-            <div class="btn-box">
-              <a href="about.php" class="theme-btn btn-style-one"><span class="btn-title">Discover more</span></a>
-              
-            </div>
-          </div>
-        </div>
-
-        <!-- Image Column -->
-        <div class="image-column col-xl-6 col-lg-6 col-md-6 col-sm-6">
-          <div class="inner-column">
-            <figure class="image-1 overlay-anim"><img src="images/resource/who-are-we.jpg" alt="">
-            </figure>
-            <figure class="image-2 overlay-anim bounce-y"><img src="images/resource/happy-customer.jpg" alt="">
-            </figure>
-            <div class="experience bounce-x">
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-  <!--Emd About Section Five -->
 
 
   <!-- Services Section -->
@@ -440,6 +401,48 @@ With a skilled team that is passionate and talented, we cultivate a winning atti
         </div>
     </div>
     <!-- End Services Section -->
+
+
+
+
+    
+  <!-- About Section Five -->
+  <section class="about-section-two pull-up pb-0">
+        <div class="auto-container">
+            <div class="row">
+                <div class="content-column col-xl-6 order-2">
+                    <div class="inner-column">
+                        <div class="sec-title">
+                            <span class="sub-title">About Us</span>
+                            <h2>Who We Are</h2>
+                            <div class="text">Softech is a leading IT & Software Development company providing services to clients in North America, Europe, Australia with over 250+ Active Clients and a team of 400+ people.
+
+With a skilled team that is passionate and talented, we cultivate a winning attitude across our organization. Our supportive management allows you to excel and find your true potential to reach new heights in your career. We believe in rewarding and appreciating hard work that makes our team push their limit every single day!</div>
+                        </div>
+
+
+            <div class="btn-box">
+              <a href="about.php" class="theme-btn btn-style-one"><span class="btn-title">Discover more</span></a>
+              
+            </div>
+          </div>
+        </div>
+
+        <!-- Image Column -->
+        <div class="image-column col-xl-6 col-lg-6 col-md-6 col-sm-6">
+          <div class="inner-column">
+            <figure class="image-1 overlay-anim"><img src="images/resource/who-are-we.jpg" alt="">
+            </figure>
+            <figure class="image-2 overlay-anim bounce-y"><img src="images/resource/happy-customer.jpg" alt="">
+            </figure>
+            <div class="experience bounce-x">
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!--Emd About Section Five -->
 
 
 
