@@ -265,9 +265,11 @@
 								<div class="services-details__content">
 									<img src="images/resource/erp-solution2.jpg" alt="" />
 									<h3 class="mt-4">Service Overview</h3>
-									<p>Softech is dedicated to delivering top-tier ERP (Enterprise Resource Planning) solutions meticulously crafted to meet your unique business requirements. With a profound understanding of the pivotal role ERP systems play in streamlining business operations, we embark on each project with a commitment to tailor our solutions precisely to your needs. 
+									<h4 class="mt-4">About Softech</h4>
+									<p>Softech is a dynamic and rapidly expanding organization with a team of 400+ dedicated professionals. We proudly serve 250+ active clients, delivering unparalleled solutions and services. As we continue to grow, we're seeking an experienced Software Developer to join our team and contribute to our innovative projects.
 										<br>
-										Our approach to ERP implementation is underpinned by a rigorous analysis of your business processes and objectives. We work closely with you to identify areas for improvement and optimization, and then, utilizing the latest technological advancements, we design and implement ERP systems that seamlessly integrate into your existing infrastructure. This ensures not only enhanced operational efficiency but also a considerable reduction in overhead costs. At Softech, we prioritize a customized approach, recognizing that every business is distinct, and so are its requirements. Our goal is to empower your business with the tools it needs to thrive in today’s competitive landscape.
+										<h5 class="mt-4">Position Overview</h5>
+										<p>We are looking for an experienced Software Developer with proficiency in both front-end and back-end development. As a Software Developer at Carpe Diem, you will leverage your expertise in programming languages such as JavaScript, Python, Ruby, or PHP. You should have hands-on experience with frameworks such as React, Express.js, Angular, or Node.js, and be familiar with databases like MySQL, MongoDB, or PostgreSQL. Additionally, knowledge of server-side frameworks such as Ruby on Rails, Django, or Laravel is crucial for success in this role.</p>
 										<br>
 										With Softech as your ERP solutions partner, you can expect an efficient, flexible, and scalable system that aligns with your strategic goals and fosters growth. We are committed to not just meeting, but surpassing your expectations, and our ERP solutions are a testament to that dedication.</p>
 									
