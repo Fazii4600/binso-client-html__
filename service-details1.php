@@ -203,11 +203,11 @@
 				<section class="page-title" style="background-image: url(images/background/page-title.jpg);">
 					<div class="auto-container">
 						<div class="title-outer">
-							<h1 class="title">HR & Admin</h1>
+							<h1 class="title">Software Development</h1>
 							<ul class="page-breadcrumb">
 								<li><a href="index.php">Home</a></li>
 								<li><a href="services.php">Services</a></li>
-								<li>HR & Admin</li>
+								<li>Software Development</li>
 							</ul>
 						</div>
 					</div>

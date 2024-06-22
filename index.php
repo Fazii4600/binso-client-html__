@@ -256,7 +256,7 @@
         <div class="feature-block-two dark col-xl-2 col-lg-3 col-md-4 col-sm-6 wow fadeInUp">
           <div class="inner-box ">
             <i class="icon flaticon-color-sample"></i>
-            <h6 class="title"><a href="page-service-details.html">Software Development</a></h6>
+            <h6 class="title"><a href="service-details1.php">Software Development</a></h6>
           </div>
         </div>
 
