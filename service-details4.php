@@ -228,10 +228,10 @@
 											<ul>
 												<li><a href="service-details1.php" ><i class="fas fa-angle-right"></i><span>Software Development</span></a></li>
 												<li><a href="service-details2.php"><i class="fas fa-angle-right"></i><span>Bussiness Development</span></a></li>
-												<li><a href="service-details.php"><i class="fas fa-angle-right"></i><span>Accounts & Finance</span></a></li>
+												<li><a href="service-details3.php"><i class="fas fa-angle-right"></i><span>Accounts & Finance</span></a></li>
 												<li class="current"><a href="service-details4.php"><i class="fas fa-angle-right"></i><span>Graphic Designing & Video Editing</span></a></li>
-												<li><a href="service-details3.php"><i class="fas fa-angle-right"></i><span>Digital Marketing</span></a></li>
-												<li><a href="service-details3.php"><i class="fas fa-angle-right"></i><span>SEO</span></a></li>
+												<li><a href="service-details5.php"><i class="fas fa-angle-right"></i><span>Digital Marketing</span></a></li>
+												<li><a href="service-details6.php"><i class="fas fa-angle-right"></i><span>SEO</span></a></li>
 												
 											</ul>
 										</div>
