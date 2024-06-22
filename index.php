@@ -242,167 +242,68 @@
 
 
 
-  <!-- Services Section -->
-  <div class="services-section-two pull-up">
-        <div class="auto-container">
-            <div class="sec-title text-center">
-                <span class="sub-title">what we’re offering</span>
-                <h2>Get the best IT technology <br/>services <span>&</span> solutions</h2>
-            </div>
-            <div class="carousel-outer">
-                <div class="service-carousel owl-carousel owl-theme default-dots">
-                    <div class="service-block-two">
-                        <div class="inner-box">
-                            <div class="image-box">
-                                <div class="icon-box">
-                                    <i class="icon flaticon-front-end"></i>
-                                </div>
-                                <figure class="image"><a href="service-details1.php" class="lightbox-image"><img src="images/resource/service2-1.jpg" alt="Image"></a></figure>
-                            </div>
-                            <div class="content-box">
-                                <span class="sub-title">01 Service</span>
-                                <h4 class="title"><a href="service-details1.php">HR & Admin</a></h4>
-                            </div>
-                            <div class="button-box">
-                                <a href="service-details1.php" class="read-more">Read More <i class="fa fa-angle-right"></i></a>
-                            </div>
-                        </div>
-                    </div>
 
-                    <div class="service-block-two">
-                        <div class="inner-box">
-                            <div class="image-box">
-                                <div class="icon-box">
-                                    <i class="icon flaticon-online-shopping"></i>
-                                </div>
-                                <figure class="image"><a href="service-details2.php" class="lightbox-image"><img src="images/resource/service2-2.jpg" alt="Image"></a></figure>
-                            </div>
-                            <div class="content-box">
-                                <span class="sub-title">02 Service</span>
-                                <h4 class="title"><a href="service-details2.php">Business Development</a></h4>
-                            </div>
-                            <div class="button-box">
-                                <a href="service-details2.php" class="read-more">Read More <i class="fa fa-angle-right"></i></a>
-                            </div>
-                        </div>
-                    </div>
 
-                    <div class="service-block-two">
-                        <div class="inner-box">
-                            <div class="image-box">
-                                <div class="icon-box">
-                                    <i class="icon flaticon-advertising"></i>
-                                </div>
-                                <figure class="image"><a href="service-details.php" class="lightbox-image"><img src="images/resource/service2-3.jpg" alt="Image"></a></figure>
-                            </div>
-                            <div class="content-box">
-                                <span class="sub-title">03 Service</span>
-                                <h4 class="title"><a href="service-details.php">Accounts & Finance</a></h4>
-                            </div>
-                            <div class="button-box">
-                                <a href="service-details.php" class="read-more">Read More <i class="fa fa-angle-right"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="service-block-two">
-                        <div class="inner-box">
-                            <div class="image-box">
-                                <div class="icon-box">
-                                    <i class="icon flaticon-advertising"></i>
-                                </div>
-                                <figure class="image"><a href="service-details3.php" class="lightbox-image"><img src="images/resource/digital-marketing.jpg" alt="Image"></a></figure>
-                            </div>
-                            <div class="content-box">
-                                <span class="sub-title">04 Service</span>
-                                <h4 class="title"><a href="service-details3.php">Software Development</a></h4>
-                            </div>
-                            <div class="button-box">
-                                <a href="service-details3.php" class="read-more">Read More <i class="fa fa-angle-right"></i></a>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="service-block-two">
-                        <div class="inner-box">
-                            <div class="image-box">
-                                <div class="icon-box">
-                                    <i class="icon flaticon-advertising"></i>
-                                </div>
-                                <figure class="image"><a href="service-details3.php" class="lightbox-image"><img src="images/resource/digital-marketing.jpg" alt="Image"></a></figure>
-                            </div>
-                            <div class="content-box">
-                                <span class="sub-title">05 Service</span>
-                                <h4 class="title"><a href="service-details3.php">Graphic Designing & Video Editing</a></h4>
-                            </div>
-                            <div class="button-box">
-                                <a href="service-details3.php" class="read-more">Read More <i class="fa fa-angle-right"></i></a>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="service-block-two">
-                        <div class="inner-box">
-                            <div class="image-box">
-                                <div class="icon-box">
-                                    <i class="icon flaticon-advertising"></i>
-                                </div>
-                                <figure class="image"><a href="service-details3.php" class="lightbox-image"><img src="images/resource/digital-marketing.jpg" alt="Image"></a></figure>
-                            </div>
-                            <div class="content-box">
-                                <span class="sub-title">06 Service</span>
-                                <h4 class="title"><a href="service-details3.php">Digital Marketing</a></h4>
-                            </div>
-                            <div class="button-box">
-                                <a href="service-details3.php" class="read-more">Read More <i class="fa fa-angle-right"></i></a>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="service-block-two">
-                        <div class="inner-box">
-                            <div class="image-box">
-                                <div class="icon-box">
-                                    <i class="icon flaticon-advertising"></i>
-                                </div>
-                                <figure class="image"><a href="service-details3.php" class="lightbox-image"><img src="images/resource/digital-marketing.jpg" alt="Image"></a></figure>
-                            </div>
-                            <div class="content-box">
-                                <span class="sub-title">07 Service</span>
-                                <h4 class="title"><a href="service-details3.php">SEO</a></h4>
-                            </div>
-                            <div class="button-box">
-                                <a href="service-details3.php" class="read-more">Read More <i class="fa fa-angle-right"></i></a>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="service-block-two">
-                        <div class="inner-box">
-                            <div class="image-box">
-                                <div class="icon-box">
-                                    <i class="icon flaticon-advertising"></i>
-                                </div>
-                                <figure class="image"><a href="service-details3.php" class="lightbox-image"><img src="images/resource/digital-marketing.jpg" alt="Image"></a></figure>
-                            </div>
-                            <div class="content-box">
-                                <span class="sub-title">08 Service</span>
-                                <h4 class="title"><a href="service-details3.php">Website Development</a></h4>
-                            </div>
-                            <div class="button-box">
-                                <a href="service-details3.php" class="read-more">Read More <i class="fa fa-angle-right"></i></a>
-                            </div>
-                        </div>
-                    </div>
-
-                    
-              
-                </div>
-            </div>
+  <!-- Industries Section -->
+  <section class="industries-section style-two">
+    <div class="auto-container">
+      <div class="sec-title text-center light">
+        <span class="sub-title">Services we’re offering</span>
+        <h2>We’re Dedicated to Serve <br/>you <span> All Time</span></h2>
+      </div>
+      <div class="row justify-content-center">
+        <!-- Feature Block Two -->
+        <div class="feature-block-two dark col-xl-2 col-lg-3 col-md-4 col-sm-6 wow fadeInUp">
+          <div class="inner-box ">
+            <i class="icon flaticon-color-sample"></i>
+            <h6 class="title"><a href="page-service-details.html">Software Development</a></h6>
+          </div>
         </div>
+
+        <!-- Feature Block Two -->
+        <div class="feature-block-two dark col-xl-2 col-lg-3 col-md-4 col-sm-6 wow fadeInUp">
+          <div class="inner-box ">
+            <i class="icon flaticon-front-end"></i>
+            <h6 class="title"><a href="page-service-details.html">Business Development</a></h6>
+          </div>
+        </div>
+
+        <!-- Feature Block Two -->
+        <div class="feature-block-two dark col-xl-2 col-lg-3 col-md-4 col-sm-6 wow fadeInUp">
+          <div class="inner-box ">
+            <i class="icon flaticon-online-shopping"></i>
+            <h6 class="title"><a href="page-service-details.html">Accounts & Finance</a></h6>
+          </div>
+        </div>
+
+        <!-- Feature Block Two -->
+        <div class="feature-block-two dark col-xl-2 col-lg-3 col-md-4 col-sm-6 wow fadeInUp">
+          <div class="inner-box ">
+            <i class="icon flaticon-advertising"></i>
+            <h6 class="title"><a href="page-service-details.html">Graphic Designing & Video Editing</a></h6>
+          </div>
+        </div>
+
+        <!-- Feature Block Two -->
+        <div class="feature-block-two dark col-xl-2 col-lg-3 col-md-4 col-sm-6 wow fadeInUp">
+          <div class="inner-box ">
+            <i class="icon flaticon-verification"></i>
+            <h6 class="title"><a href="page-service-details.html">Digital Marketing</a></h6>
+          </div>
+        </div>
+
+        <!-- Feature Block Two -->
+        <div class="feature-block-two dark col-xl-2 col-lg-3 col-md-4 col-sm-6 wow fadeInUp">
+          <div class="inner-box ">
+            <i class="icon flaticon-design"></i>
+            <h6 class="title"><a href="page-service-details.html">SEO</a></h6>
+          </div>
+        </div>
+
+      </div>
     </div>
-    <!-- End Services Section -->
-
-
+  </section>
+  <!-- End Industries Section -->
 
 
     
@@ -415,7 +316,7 @@
                         <div class="sec-title">
                             <span class="sub-title">About Us</span>
                             <h2>Who We Are</h2>
-                            <div class="text">Softech is a leading IT & Software Development company providing services to clients in North America, Europe, Australia with over 250+ Active Clients and a team of 400+ people.
+                            <div class="text">Softech is a leading IT & Software Development company providing services to clients in North America, Europe, Australia with over 250+ Active Clients and a team of 400+ people. <br><br>
 
 With a skilled team that is passionate and talented, we cultivate a winning attitude across our organization. Our supportive management allows you to excel and find your true potential to reach new heights in your career. We believe in rewarding and appreciating hard work that makes our team push their limit every single day!</div>
                         </div>
