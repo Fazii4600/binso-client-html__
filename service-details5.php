@@ -259,22 +259,45 @@
 									<!--End Services Details Sidebar-->
 								</div>
 							</div>
-
 							<!--Start Services Details Content-->
-							<div class="col-xl-8 col-lg-8">
+								<div class="col-xl-8 col-lg-8">
 								<div class="services-details__content">
 									<img src="images/resource/erp-solution2.jpg" alt="" />
 									<h3 class="mt-4">Service Overview</h3>
 									<h4 class="mt-4">About Softech</h4>
-									<p>Softech is a dynamic and rapidly expanding organization with a team of 400+ dedicated professionals. We proudly serve 250+ active clients, delivering unparalleled solutions and services. As we continue to grow, we're seeking an experienced Software Developer to join our team and contribute to our innovative projects.
+									<p>Softech is a dynamic and rapidly expanding organization with a team of 400+ dedicated professionals. We proudly serve 250+ active clients, delivering unparalleled solutions and services. As we continue to grow, we're seeking an experienced Software Developer to join our team and contribute to our innovative projects.</p>
 										<br>
 										<h5 class="mt-4">Position Overview</h5>
-										<p>We are looking for an experienced Software Developer with proficiency in both front-end and back-end development. As a Software Developer at Carpe Diem, you will leverage your expertise in programming languages such as JavaScript, Python, Ruby, or PHP. You should have hands-on experience with frameworks such as React, Express.js, Angular, or Node.js, and be familiar with databases like MySQL, MongoDB, or PostgreSQL. Additionally, knowledge of server-side frameworks such as Ruby on Rails, Django, or Laravel is crucial for success in this role.</p>
+										<p>We are looking for an experienced Digital Marketing professional with a strong background in online marketing strategies and tactics. As a Digital Marketer at Carpe Diem, you will leverage your expertise in SEO, SEM, social media marketing, email marketing, and content creation. You should have hands-on experience with digital marketing tools and platforms such as Google Analytics, Google Ads, Facebook Ads, and marketing automation software. Additionally, knowledge of current digital marketing trends and best practices is crucial for success in this role.</p>
 										<br>
-										With Softech as your ERP solutions partner, you can expect an efficient, flexible, and scalable system that aligns with your strategic goals and fosters growth. We are committed to not just meeting, but surpassing your expectations, and our ERP solutions are a testament to that dedication.</p>
+										<h5 class="mt-4">Key Responsibilities</h5>
+										<ul>
+											<li><p>Develop and execute digital marketing strategies to increase online visibility and engagement.</p></li>
+											<li><p>Manage and optimize SEO and SEM campaigns.</p></li>
+											<li><p>Create and manage content for social media platforms, email marketing, and blogs.</p></li>
+											<li><p>Analyze and report on the performance of digital marketing campaigns.</p></li>
+										</ul>
+										<br>
+										<h5 class="mt-4">Skills and Experience</h5>
+										<ul>
+											<li><p>5 years of experience in digital marketing.</p></li>
+											<li><p>Strong knowledge of SEO, SEM, social media marketing, email marketing, and content creation.</p></li>
+											<li><p>Hands-on experience with digital marketing tools and platforms such as Google Analytics, Google Ads, Facebook Ads, and marketing automation software.</p></li>
+											<li><p>Knowledge of current digital marketing trends and best practices.</p></li>
+										</ul>
+										<br>
+										<h5 class="mt-4">Additional Information</h5>
+										<ul>
+											<li><p>Full-Time</p></li>
+											<li><p>11AM to 8PM</p></li>
+											
+										</ul>
+
 									
 									
-										
+									
+							
+							<!--End Services Details Content-->
 								
 							<!--End Services Details Content-->
 						</div>

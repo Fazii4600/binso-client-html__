@@ -259,21 +259,49 @@
 									<!--End Services Details Sidebar-->
 								</div>
 							</div>
-
-							<!--Start Services Details Content-->
-							<div class="col-xl-8 col-lg-8">
+<!--Start Services Details Content-->
+<div class="col-xl-8 col-lg-8">
 								<div class="services-details__content">
 									<img src="images/resource/erp-solution2.jpg" alt="" />
 									<h3 class="mt-4">Service Overview</h3>
 									<h4 class="mt-4">About Softech</h4>
-									<p>Softech is a dynamic and rapidly expanding organization with a team of 400+ dedicated professionals. We proudly serve 250+ active clients, delivering unparalleled solutions and services. As we continue to grow, we're seeking an experienced Software Developer to join our team and contribute to our innovative projects.
+									<p>Softech is a dynamic and rapidly expanding organization with a team of 400+ dedicated professionals. We proudly serve 250+ active clients, delivering unparalleled solutions and services. As we continue to grow, we're seeking an experienced Software Developer to join our team and contribute to our innovative projects.</p>
 										<br>
 										<h5 class="mt-4">Position Overview</h5>
-										<p>We are looking for an experienced Software Developer with proficiency in both front-end and back-end development. As a Software Developer at Carpe Diem, you will leverage your expertise in programming languages such as JavaScript, Python, Ruby, or PHP. You should have hands-on experience with frameworks such as React, Express.js, Angular, or Node.js, and be familiar with databases like MySQL, MongoDB, or PostgreSQL. Additionally, knowledge of server-side frameworks such as Ruby on Rails, Django, or Laravel is crucial for success in this role.</p>
+										<p>We are looking for an experienced Graphic Designer & Video Editor with proficiency in creating visually stunning graphics and engaging video content. As a Graphic Designer & Video Editor at Carpe Diem, you will leverage your expertise in design software such as Adobe Creative Suite (Photoshop, Illustrator, Premiere Pro, After Effects). You should have hands-on experience with graphic design, video editing, animation, and multimedia production. Additionally, knowledge of current design trends and video editing techniques is crucial for success in this role.</p>
 										<br>
-										With Softech as your ERP solutions partner, you can expect an efficient, flexible, and scalable system that aligns with your strategic goals and fosters growth. We are committed to not just meeting, but surpassing your expectations, and our ERP solutions are a testament to that dedication.</p>
+										<h5 class="mt-4">Key Responsibilities</h5>
+										<ul>
+											<li><p>Create visually appealing graphics for digital and print media.</p></li>
+											<li><p>Edit and produce engaging video content for various platforms.</p></li>
+											<li><p>Develop animations and motion graphics for multimedia projects.</p></li>
+											<li><p>Collaborate with the marketing team to develop creative concepts and campaigns.</p></li>
+										</ul>
+										<br>
+										<h5 class="mt-4">Skills and Experience</h5>
+										<ul>
+											<li><p>5 years of experience in graphic design and video editing.</p></li>
+											<li><p>Strong knowledge of design software such as Adobe Creative Suite (Photoshop, Illustrator, Premiere Pro, After Effects).</p></li>
+											<li><p>Hands-on experience with graphic design, video editing, animation, and multimedia production.</p></li>
+											<li><p>Knowledge of current design trends and video editing techniques.</p></li>
+										</ul>
+										<br>
+										<h5 class="mt-4">Additional Information</h5>
+										<ul>
+											<li><p>Full-Time</p></li>
+											<li><p>11AM to 8PM</p></li>
+											
+										</ul>
+
 									
 									
+									
+							
+							<!--End Services Details Content-->
+						</div>
+					</div>
+				</section>
+				<!--End Services Details-->
 										
 									
 							<!--End Services Details Content-->

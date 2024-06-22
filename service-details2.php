@@ -266,16 +266,44 @@
 									<img src="images/resource/erp-solution2.jpg" alt="" />
 									<h3 class="mt-4">Service Overview</h3>
 									<h4 class="mt-4">About Softech</h4>
-									<p>Softech is a dynamic and rapidly expanding organization with a team of 400+ dedicated professionals. We proudly serve 250+ active clients, delivering unparalleled solutions and services. As we continue to grow, we're seeking an experienced Software Developer to join our team and contribute to our innovative projects.
+									<p>Softech is a dynamic and rapidly expanding organization with a team of 400+ dedicated professionals. We proudly serve 250+ active clients, delivering unparalleled solutions and services. As we continue to grow, we're seeking an experienced Software Developer to join our team and contribute to our innovative projects.</p>
 										<br>
 										<h5 class="mt-4">Position Overview</h5>
-										<p>We are looking for an experienced Software Developer with proficiency in both front-end and back-end development. As a Software Developer at Carpe Diem, you will leverage your expertise in programming languages such as JavaScript, Python, Ruby, or PHP. You should have hands-on experience with frameworks such as React, Express.js, Angular, or Node.js, and be familiar with databases like MySQL, MongoDB, or PostgreSQL. Additionally, knowledge of server-side frameworks such as Ruby on Rails, Django, or Laravel is crucial for success in this role.</p>
+										<p>We are looking for an experienced Business Development professional with a strong track record in driving business growth and developing strategic partnerships. As a Business Development professional at Carpe Diem, you will leverage your expertise in identifying new business opportunities, building relationships with potential clients, and developing strategies to increase revenue. You should have hands-on experience in sales, marketing, and strategic planning, and be familiar with market analysis and competitive research.</p>
 										<br>
-										With Softech as your ERP solutions partner, you can expect an efficient, flexible, and scalable system that aligns with your strategic goals and fosters growth. We are committed to not just meeting, but surpassing your expectations, and our ERP solutions are a testament to that dedication.</p>
+										<h5 class="mt-4">Key Responsibilities</h5>
+										<ul>
+											<li><p>Identify and develop new business opportunities.</p></li>
+											<li><p>Build and maintain strong relationships with potential and existing clients.</p></li>
+											<li><p>Develop and implement strategies to increase revenue and market share.</p></li>
+											<li><p>Conduct market analysis and competitive research to inform business strategies.</p></li>
+											<li><p>Collaborate with cross-functional teams to develop proposals and presentations.</p></li>
+										</ul>
+											<br>
+										<h5 class="mt-4">Skills and Experience</h5>
+										<ul>
+											<li><p>5 years of experience in Business Development or a related field.</p></li>
+											<li><p>Proven track record of driving business growth and developing strategic partnerships.</p></li>
+											<li><p>Strong knowledge of sales, marketing, and strategic planning.</p></li>
+											<li><p>Excellent communication and negotiation skills.</p></li>
+										</ul>
+										<br>
+										<h5 class="mt-4">Additional Information</h5>
+										<ul>
+											<li><p>Full-Time</p></li>
+											<li><p>11AM to 8PM</p></li>
+											
+										</ul>
+
 									
 									
-										
 									
+							
+							<!--End Services Details Content-->
+						</div>
+					</div>
+				</section>
+				<!--End Services Details-->
 							<!--End Services Details Content-->
 						</div>
 					</div>

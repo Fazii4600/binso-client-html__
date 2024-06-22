@@ -266,15 +266,43 @@
 									<img src="images/resource/erp-solution2.jpg" alt="" />
 									<h3 class="mt-4">Service Overview</h3>
 									<h4 class="mt-4">About Softech</h4>
-									<p>Softech is a dynamic and rapidly expanding organization with a team of 400+ dedicated professionals. We proudly serve 250+ active clients, delivering unparalleled solutions and services. As we continue to grow, we're seeking an experienced Software Developer to join our team and contribute to our innovative projects.
+									<p>Softech is a dynamic and rapidly expanding organization with a team of 400+ dedicated professionals. We proudly serve 250+ active clients, delivering unparalleled solutions and services. As we continue to grow, we're seeking an experienced Software Developer to join our team and contribute to our innovative projects.</p>
 										<br>
 										<h5 class="mt-4">Position Overview</h5>
-										<p>We are looking for an experienced Software Developer with proficiency in both front-end and back-end development. As a Software Developer at Carpe Diem, you will leverage your expertise in programming languages such as JavaScript, Python, Ruby, or PHP. You should have hands-on experience with frameworks such as React, Express.js, Angular, or Node.js, and be familiar with databases like MySQL, MongoDB, or PostgreSQL. Additionally, knowledge of server-side frameworks such as Ruby on Rails, Django, or Laravel is crucial for success in this role.</p>
+										<p>We are looking for an experienced Account and Financial professional with a strong background in financial management and accounting. As an Account and Financial professional at Carpe Diem, you will leverage your expertise in financial planning, analysis, and reporting. You should have hands-on experience with budgeting, forecasting, and managing financial statements. Additionally, knowledge of financial regulations and compliance is crucial for success in this role.</p>
 										<br>
-										With Softech as your ERP solutions partner, you can expect an efficient, flexible, and scalable system that aligns with your strategic goals and fosters growth. We are committed to not just meeting, but surpassing your expectations, and our ERP solutions are a testament to that dedication.</p>
+										<h5 class="mt-4">Key Responsibilities</h5>
+										<ul>
+											<li><p>Develop and maintain robust software applications.</p></li>
+											<li><p>Prepare and analyze financial statements, budgets, and forecasts.</p></li>
+											<li><p>Ensure compliance with financial regulations and standards.</p></li>
+											<li><p>Conduct financial analysis and provide insights to support strategic decision-making.</p></li>
+										</ul>
+										<br>
+										<h5 class="mt-4">Skills and Experience</h5>
+										<ul>
+											<li><p>5 years of experience in accounting and financial management.</p></li>
+											<li><p>Strong knowledge of financial planning, analysis, and reporting.</p></li>
+											<li><p>Hands-on experience with budgeting, forecasting, and managing financial statements.</p></li>
+											<li><p>Knowledge of financial regulations and compliance.</p></li>
+										</ul>
+										<br>
+										<h5 class="mt-4">Additional Information</h5>
+										<ul>
+											<li><p>Full-Time</p></li>
+											<li><p>11AM to 8PM</p></li>
+											
+										</ul>
+
 									
 									
-										
+									
+							
+							<!--End Services Details Content-->
+						</div>
+					</div>
+				</section>
+				<!--End Services Details-->
 									
 							<!--End Services Details Content-->
 						</div>
