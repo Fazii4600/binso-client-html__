@@ -247,20 +247,67 @@ With a skilled team that is passionate and talented, we cultivate a winning atti
     <!--Emd About Section Five -->
 
     <!-- Services Section -->
-    <div class="services-section-two pull-up">
-        <div class="auto-container">
-            <div class="sec-title text-center">
-                
-                <h2>What We Do</h2>
-            </div>
-            <div class="text">Softech provides a vast range of Software Development & IT services that include various aspects of digital marketing, SaaS-based solutions and provides our clients with the latest solutions in the changing world of Marketing Automations and Artificial Intelligence.
-
-Our vision is to become a 1,000 people company that consists of the Top 1% workforce of Pakistan to provide services across the globe and lead Pakistan as a Software Development & IT service provider in international markets.<br><br>
-
-We believe in not just attracting the right talent that would enable us to fulfill our vision but also cultivating and nurturing our existing talent by investing heavily into the latest training and courses to upgrade their skills and provide them with the opportunity to change their lives and become brand ambassadors of Pakistan.
+  
+<!-- Industries Section -->
+<section class="industries-section style-two">
+    <div class="auto-container">
+      <div class="sec-title text-center light">
+        <span class="sub-title">Services we’re offering</span>
+        <h2>We’re Dedicated to Serve <br/>you <span> All Time</span></h2>
+      </div>
+      <div class="row justify-content-center">
+        <!-- Feature Block Two -->
+        <div class="feature-block-two dark col-xl-2 col-lg-3 col-md-4 col-sm-6 wow fadeInUp">
+          <div class="inner-box ">
+            <i class="icon flaticon-color-sample"></i>
+            <h6 class="title"><a href="page-service-details.html">Software Development</a></h6>
+          </div>
         </div>
-    </div>
 
+        <!-- Feature Block Two -->
+        <div class="feature-block-two dark col-xl-2 col-lg-3 col-md-4 col-sm-6 wow fadeInUp">
+          <div class="inner-box ">
+            <i class="icon flaticon-front-end"></i>
+            <h6 class="title"><a href="page-service-details.html">Business Development</a></h6>
+          </div>
+        </div>
+
+        <!-- Feature Block Two -->
+        <div class="feature-block-two dark col-xl-2 col-lg-3 col-md-4 col-sm-6 wow fadeInUp">
+          <div class="inner-box ">
+            <i class="icon flaticon-online-shopping"></i>
+            <h6 class="title"><a href="page-service-details.html">Accounts & Finance</a></h6>
+          </div>
+        </div>
+
+        <!-- Feature Block Two -->
+        <div class="feature-block-two dark col-xl-2 col-lg-3 col-md-4 col-sm-6 wow fadeInUp">
+          <div class="inner-box ">
+            <i class="icon flaticon-advertising"></i>
+            <h6 class="title"><a href="page-service-details.html">Graphic Designing & Video Editing</a></h6>
+          </div>
+        </div>
+
+        <!-- Feature Block Two -->
+        <div class="feature-block-two dark col-xl-2 col-lg-3 col-md-4 col-sm-6 wow fadeInUp">
+          <div class="inner-box ">
+            <i class="icon flaticon-verification"></i>
+            <h6 class="title"><a href="page-service-details.html">Digital Marketing</a></h6>
+          </div>
+        </div>
+
+        <!-- Feature Block Two -->
+        <div class="feature-block-two dark col-xl-2 col-lg-3 col-md-4 col-sm-6 wow fadeInUp">
+          <div class="inner-box ">
+            <i class="icon flaticon-design"></i>
+            <h6 class="title"><a href="page-service-details.html">SEO</a></h6>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+  <!-- End Industries Section -->
    
 
    
