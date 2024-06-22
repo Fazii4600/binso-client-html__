@@ -228,10 +228,10 @@
 											<ul>
 												<li class="current"><a href="service-details1.php" class="current"><i class="fas fa-angle-right"></i><span>Software Development</span></a></li>
 												<li ><a href="service-details2.php"><i class="fas fa-angle-right"></i><span>Bussiness Development</span></a></li>
-												<li ><a href="service-details3.php"><i class="fas fa-angle-right"></i><span>Accounts & Finance</span></a></li>
-												<li><a href="service-details4.php"><i class="fas fa-angle-right"></i><span>Graphic Designing & Video Editing</span></a></li>
-												<li><a href="service-details5.php"><i class="fas fa-angle-right"></i><span>Digital Marketing</span></a></li>
-												<li><a href="service-details6.php"><i class="fas fa-angle-right"></i><span>SEO</span></a></li>
+												<li ><a href="service-details.php"><i class="fas fa-angle-right"></i><span>Accounts & Finance</span></a></li>
+												<li><a href="service-details3.php"><i class="fas fa-angle-right"></i><span>Graphic Designing & Video Editing</span></a></li>
+												<li><a href="service-details3.php"><i class="fas fa-angle-right"></i><span>Digital Marketing</span></a></li>
+												<li><a href="service-details3.php"><i class="fas fa-angle-right"></i><span>SEO</span></a></li>
 												
 											</ul>
 										</div>
@@ -266,66 +266,38 @@
 									<img src="images/resource/erp-solution2.jpg" alt="" />
 									<h3 class="mt-4">Service Overview</h3>
 									<h4 class="mt-4">About Softech</h4>
-									<p>Softech is a dynamic and rapidly expanding organization with a team of 400+ dedicated professionals. We proudly serve 250+ active clients, delivering unparalleled solutions and services. As we continue to grow, we're seeking an experienced Software Developer to join our team and contribute to our innovative projects.
+									<p>Softech is a dynamic and rapidly expanding organization with a team of 400+ dedicated professionals. We proudly serve 250+ active clients, delivering unparalleled solutions and services. As we continue to grow, we're seeking an experienced Software Developer to join our team and contribute to our innovative projects.</p>
 										<br>
 										<h5 class="mt-4">Position Overview</h5>
 										<p>We are looking for an experienced Software Developer with proficiency in both front-end and back-end development. As a Software Developer at Carpe Diem, you will leverage your expertise in programming languages such as JavaScript, Python, Ruby, or PHP. You should have hands-on experience with frameworks such as React, Express.js, Angular, or Node.js, and be familiar with databases like MySQL, MongoDB, or PostgreSQL. Additionally, knowledge of server-side frameworks such as Ruby on Rails, Django, or Laravel is crucial for success in this role.</p>
 										<br>
-										With Softech as your ERP solutions partner, you can expect an efficient, flexible, and scalable system that aligns with your strategic goals and fosters growth. We are committed to not just meeting, but surpassing your expectations, and our ERP solutions are a testament to that dedication.</p>
-									
-									
-										
-									<div class=" mt-25">
-										<h3>Frequently Asked Question</h3>
-										<ul class="accordion-box wow fadeInRight">
-											<!--Block-->
-											<li class="accordion block">
-												<div class="acc-btn">How does Softech UK ensure the quality of its services?
-													<div class="icon fa fa-plus"></div>
-												</div>
-												<div class="acc-content">
-													<div class="content">
-														<div class="text">We adhere to rigorous quality assurance processes, including multiple testing stages and peer reviews to ensure every deliverable meets the highest standards of quality and functionality.</div>
-													</div>
-												</div>
-											</li>
-											<!--Block-->
-											<li class="accordion block active-block">
-												<div class="acc-btn active">Can Softech UK provide ongoing support and maintenance after project completion?
-													<div class="icon fa fa-plus"></div>
-												</div>
-												<div class="acc-content current">
-													<div class="content">
-														<div class="text">Yes, we offer ongoing support and maintenance services to ensure your software continues to perform optimally. Our support packages can be customized to meet your specific needs.</div>
-													</div>
-												</div>
-											</li>
-											<!--Block-->
-											<li class="accordion block">
-												<div class="acc-btn">What industries does Softech UK cater to?
-													<div class="icon fa fa-plus"></div>
-												</div>
-												<div class="acc-content">
-													<div class="content">
-														<div class="text">We serve a variety of industries including healthcare, finance, education, retail, and more. Our solutions are tailored to meet the unique challenges and compliance requirements of each sector.</div>
-													</div>
-												</div>
-											</li>
-											<!--Block-->
-											<li class="accordion block">
-												<div class="acc-btn">How does Softech UK ensure the quality of its services?
-													<div class="icon fa fa-plus"></div>
-												</div>
-												<div class="acc-content">
-													<div class="content">
-														<div class="text">We adhere to rigorous quality assurance processes, including multiple testing stages and peer reviews to ensure every deliverable meets the highest standards of quality and functionality.</div>
-													</div>
-												</div>
-											</li>
+										<h5 class="mt-4">Key Responsibilities</h5>
+										<ul>
+											<li><p>Develop and maintain robust software applications.</p></li>
+											<li><p>Collaborate with cross-functional teams to define, design, and ship new features.</p></li>
+											<li><p>Ensure the performance, quality, and responsiveness of applications.</p></li>
+											<li><p>Experience in both front-end and back-end development.</p></li>
 										</ul>
-									</div>
-								</div>
-							</div>
+										<br>
+										<h5 class="mt-4">Skills and Experience</h5>
+										<ul>
+											<li><p>5 years of experience as a Software Developer.</p></li>
+											<li><p>Proficient in front-end and back-end development.</p></li>
+											<li><p>Strong knowledge of programming languages such as JavaScript, Python, Ruby, or PHP.</p></li>
+											<li><p>Experience with databases including MySQL, MongoDB, or PostgreSQL.</p></li>
+										</ul>
+										<br>
+										<h5 class="mt-4">Additional Information</h5>
+										<ul>
+											<li><p>Full-Time</p></li>
+											<li><p>11AM to 8PM</p></li>
+											
+										</ul>
+
+									
+									
+									
+							
 							<!--End Services Details Content-->
 						</div>
 					</div>
