@@ -240,38 +240,7 @@
   </section>
   <!-- End Main Slider -->
 
-  <!-- Features Section -->
-  <section class="features-section-two">
-    <div class="auto-container">
-      <div class="row">
-        <!-- Feature Block Six -->
-        <div class="feature-block-three col-lg-4 col-md-6 col-sm-12">
-          <div class="inner-box ">
-            <span class="icon">20+</span>
-            <h3 class="title"><a href="#">ERP And<br/>E-Commerce Solutions</a></h3>
-            <a href="services.php" class="theme-btn btn-style-one small light-bg"><span class="btn-title">Find Your Solution</span></a>
-          </div>
-        </div>
-
-        <!-- Feature Block Six -->
-        <div class="feature-block-three col-lg-4 col-md-6 col-sm-12">
-          <div class="inner-box ">
-            <figure class="image"><img src="images/resource/feature1-1.jpg" alt=""></figure>
-          </div>
-        </div>
-
-        <!-- Feature Block Six -->
-        <div class="feature-block-three col-lg-4 col-md-6 col-sm-12">
-          <div class="inner-box ">
-            <i class="icon flaticon-satisfaction"></i>
-            <h3 class="title"><a href="#">Expert IT <br/>Consultants <br/>Available</a></h3>
-            <a href="team.php" class="theme-btn btn-style-one small light-bg"><span class="btn-title">Find Your Solution</span></a>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-  <!-- End Features Section -->
+  
 
   <!-- About Section Five -->
   <section class="about-section-two pull-up pb-0">
