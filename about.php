@@ -247,20 +247,20 @@ With a skilled team that is passionate and talented, we cultivate a winning atti
     <!--Emd About Section Five -->
 
     <!-- Services Section -->
-  
-<!-- Industries Section -->
-<section class="industries-section style-two">
+ 
+  <!-- Industries Section -->
+  <section class="industries-section style-two">
     <div class="auto-container">
       <div class="sec-title text-center light">
         <span class="sub-title">Services we’re offering</span>
-        <h2>We’re Dedicated to Serve <br/>you <span> All Time</span></h2>
+        <h2><span style="color: black;">We’re Dedicated to Serve <br/>you</span> <span> All Time</span></h2>
       </div>
       <div class="row justify-content-center">
         <!-- Feature Block Two -->
         <div class="feature-block-two dark col-xl-2 col-lg-3 col-md-4 col-sm-6 wow fadeInUp">
           <div class="inner-box ">
             <i class="icon flaticon-color-sample"></i>
-            <h6 class="title"><a href="page-service-details.html">Software Development</a></h6>
+            <h6 class="title"><a href="service-details1.php">Software Development</a></h6>
           </div>
         </div>
 
@@ -268,23 +268,7 @@ With a skilled team that is passionate and talented, we cultivate a winning atti
         <div class="feature-block-two dark col-xl-2 col-lg-3 col-md-4 col-sm-6 wow fadeInUp">
           <div class="inner-box ">
             <i class="icon flaticon-front-end"></i>
-            <h6 class="title"><a href="page-service-details.html">Business Development</a></h6>
-          </div>
-        </div>
-
-        <!-- Feature Block Two -->
-        <div class="feature-block-two dark col-xl-2 col-lg-3 col-md-4 col-sm-6 wow fadeInUp">
-          <div class="inner-box ">
-            <i class="icon flaticon-online-shopping"></i>
-            <h6 class="title"><a href="page-service-details.html">Accounts & Finance</a></h6>
-          </div>
-        </div>
-
-        <!-- Feature Block Two -->
-        <div class="feature-block-two dark col-xl-2 col-lg-3 col-md-4 col-sm-6 wow fadeInUp">
-          <div class="inner-box ">
-            <i class="icon flaticon-advertising"></i>
-            <h6 class="title"><a href="page-service-details.html">Graphic Designing & Video Editing</a></h6>
+            <h6 class="title"><a href="service-details2.php">Business Development</a></h6>
           </div>
         </div>
 
@@ -292,7 +276,23 @@ With a skilled team that is passionate and talented, we cultivate a winning atti
         <div class="feature-block-two dark col-xl-2 col-lg-3 col-md-4 col-sm-6 wow fadeInUp">
           <div class="inner-box ">
             <i class="icon flaticon-verification"></i>
-            <h6 class="title"><a href="page-service-details.html">Digital Marketing</a></h6>
+            <h6 class="title"><a href="service-details3.php">Accounts & Finance</a></h6>
+          </div>
+        </div>
+
+        <!-- Feature Block Two -->
+        <div class="feature-block-two dark col-xl-2 col-lg-3 col-md-4 col-sm-6 wow fadeInUp">
+          <div class="inner-box ">
+            <i class="icon flaticon-advertising"></i>
+            <h6 class="title"><a href="service-details4.php">Graphic Designing & Video Editing</a></h6>
+          </div>
+        </div>
+
+        <!-- Feature Block Two -->
+        <div class="feature-block-two dark col-xl-2 col-lg-3 col-md-4 col-sm-6 wow fadeInUp">
+          <div class="inner-box ">
+            <i class="icon flaticon-online-shopping"></i>
+            <h6 class="title"><a href="service-details5.php">Digital Marketing</a></h6>
           </div>
         </div>
 
@@ -300,7 +300,7 @@ With a skilled team that is passionate and talented, we cultivate a winning atti
         <div class="feature-block-two dark col-xl-2 col-lg-3 col-md-4 col-sm-6 wow fadeInUp">
           <div class="inner-box ">
             <i class="icon flaticon-design"></i>
-            <h6 class="title"><a href="page-service-details.html">SEO</a></h6>
+            <h6 class="title"><a href="service-details6.php">SEO</a></h6>
           </div>
         </div>
 

@@ -9,7 +9,7 @@
           <div class="footer-column col-lg-3 col-sm-6">
             <div class="footer-widget about-widget">
               <h6 class="widget-title">About</h6>
-              <div class="text">Softech UK: Your partner for Web, App, CRM & ERP Development, SEO, and Digital Marketing. Achieve your digital goals with our innovative solutions and client-focused approach..</div>
+              <div class="text">Softech: A leading IT & Software Development company providing services to clients in North America, Europe, Australia with over 250+ Active Clients and a team of 400+ people.</div>
               <ul class="social-icon-two">
                 <li><a href="#"><i class="fab fa-twitter"></i></a></li>
                 <li><a href="#"><i class="fab fa-facebook"></i></a></li>
